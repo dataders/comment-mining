@@ -1,5 +1,5 @@
 ---
-title: "Comment Mining Write Up"
+title: "Comment Mining Write Up - II"
 author: "Anders Swanson"
 output:
   html_document:
@@ -363,7 +363,7 @@ In the top 25% table "a focus for the next" falls under the category of somethin
 
 ***
 # References  & Footnotes
-[^1]: asdfasdfasdfasdf
+[^1]: Assuming that criteria level distribution should be level in the first place.
 [^2]: The average growth should be the difference between the Criteria Means of trimester one and two but the average growth excludes mid-year students who: 1) typically don't do well in their 1st trimester of MYP and 2) are not represented in the T1-T2 growth statistic.
 [^3]: A lot of assumptions going on here....
 [^4]: Name removed for privacy
